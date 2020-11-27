@@ -7,7 +7,6 @@ public class Start
 	{
 
 		Passport pas1= new Passport();
-		Passport pas1= new Passport();
 		pas1.setpassHoldername("Kajol khan");
 		pas1.setExpiredate("20 jan,2021");
 		pas1.setpassNo("26874");
