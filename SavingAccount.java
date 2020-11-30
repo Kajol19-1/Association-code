@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class SavingAccount extends BankAccount
+public class SavingAcc extends BankAccount
 {
 	public double interestRate;
 	
